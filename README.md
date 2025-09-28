@@ -47,8 +47,6 @@ const xrmqd = {
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtncHljZWUxeW8zYnY2cDhraDE3M2JzNnZ3ejEzMW42aXA5Yng1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t7sEnf5w7wJ1CEPyy7/giphy.gif" width=20> A little of my statistics</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2027%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-424.8%20thousand%20lines%20of%20code-blue)
@@ -65,34 +63,6 @@ const xrmqd = {
  > 
 > 🔑 9 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Yekaterinburg
-
-💬 Programming Languages: 
-Python                   30 mins             ████████░░░░░░░░░░░░░░░░░   33.74 % 
-YAML                     25 mins             ███████░░░░░░░░░░░░░░░░░░   28.24 % 
-HTML                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Rust                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-
-🔥 Editors: 
-WebStorm                 51 mins             ██████████████░░░░░░░░░░░   57.25 % 
-PyCharm                  26 mins             ███████░░░░░░░░░░░░░░░░░░   29.21 % 
-VS Code                  12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-
-🐱‍💻 Projects: 
-XRMQD                    31 mins             █████████░░░░░░░░░░░░░░░░   35.17 % 
-task1                    21 mins             ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-firstsite                19 mins             ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-school                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-enum_test                8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-
-💻 Operating System: 
-Mac                      1 hr 29 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -105,5 +75,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2025 01:04:33 UTC
+ Last Updated on 28/09/2025 01:14:01 UTC
 <!--END_SECTION:waka-->
