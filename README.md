@@ -5,12 +5,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/XRMQD?label=Follow&style=social)
 
-⬇️ Run it in shell
-
-```bash
-npx xrmqd
-```
-
 <h2><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NtZnJxd2hpODFtZHQ0bm1pMmZxNnRmYTU0bmxiMHkzOXU4d2kwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iE4e5c8ExJUhdhvSiw/giphy.gif" width=20 /> A little bit more about me</h2>
 
 ```javascript
