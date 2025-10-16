@@ -65,24 +65,27 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   7 hrs 55 mins       ███████████████████████░░   91.44 % 
-Env File                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Python                   7 hrs 55 mins       ███████████████████████░░   91.39 % 
+Env File                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 SQL                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 19 mins       █████████████████████░░░░   84.44 % 
-PyCharm                  1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+VS Code                  7 hrs 19 mins       █████████████████████░░░░   84.40 % 
+PyCharm                  1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
 CLion                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-school                   7 hrs 19 mins       █████████████████████░░░░   84.44 % 
-mvp-tgbot                1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+school                   7 hrs 19 mins       █████████████████████░░░░   84.40 % 
+mvp-tgbot                1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
 techcup                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+XRMQD                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+firstsite                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      8 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -97,5 +100,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2025 01:09:09 UTC
+ Last Updated on 16/10/2025 01:08:57 UTC
 <!--END_SECTION:waka-->
