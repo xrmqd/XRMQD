@@ -65,27 +65,27 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   6 hrs 35 mins       ███████████████████░░░░░░   77.09 % 
-JavaScript               1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Env File                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-SQL                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Python                   6 hrs 20 mins       █████████████████████░░░░   82.70 % 
+JavaScript               1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 56 mins       █████████████████░░░░░░░░   69.47 % 
-PyCharm                  1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-WebStorm                 1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-CLion                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+VS Code                  5 hrs 56 mins       ███████████████████░░░░░░   77.49 % 
+WebStorm                 1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+PyCharm                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+CLion                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-school                   5 hrs 56 mins       █████████████████░░░░░░░░   69.47 % 
-mvp-tgbot                1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-firstsite                1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-techcup                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-XRMQD                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+school                   5 hrs 56 mins       ███████████████████░░░░░░   77.49 % 
+firstsite                1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+mvp-tgbot                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+techcup                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+XRMQD                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      8 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,5 +100,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2025 01:08:42 UTC
+ Last Updated on 18/10/2025 01:05:25 UTC
 <!--END_SECTION:waka-->
