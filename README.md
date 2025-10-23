@@ -65,20 +65,19 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-JavaScript               1 hr 15 mins        █████████████░░░░░░░░░░░░   51.15 % 
-Python                   1 hr 11 mins        ████████████░░░░░░░░░░░░░   48.38 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+JavaScript               1 hr 15 mins        █████████████░░░░░░░░░░░░   51.10 % 
+Python                   1 hr 11 mins        ████████████░░░░░░░░░░░░░   48.61 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 16 mins        █████████████░░░░░░░░░░░░   51.50 % 
-VS Code                  1 hr 11 mins        ████████████░░░░░░░░░░░░░   48.50 % 
+WebStorm                 1 hr 15 mins        █████████████░░░░░░░░░░░░   51.27 % 
+VS Code                  1 hr 11 mins        ████████████░░░░░░░░░░░░░   48.73 % 
 
 🐱‍💻 Projects: 
-firstsite                1 hr 15 mins        █████████████░░░░░░░░░░░░   51.35 % 
-school                   1 hr 11 mins        ████████████░░░░░░░░░░░░░   48.50 % 
-XRMQD                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+firstsite                1 hr 15 mins        █████████████░░░░░░░░░░░░   51.27 % 
+school                   1 hr 11 mins        ████████████░░░░░░░░░░░░░   48.73 % 
 
 💻 Operating System: 
 Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
@@ -96,5 +95,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2025 01:12:16 UTC
+ Last Updated on 23/10/2025 01:09:57 UTC
 <!--END_SECTION:waka-->
