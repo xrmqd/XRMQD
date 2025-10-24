@@ -41,7 +41,7 @@ const xrmqd = {
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtncHljZWUxeW8zYnY2cDhraDE3M2JzNnZ3ejEzMW42aXA5Yng1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t7sEnf5w7wJ1CEPyy7/giphy.gif" width=20> A little of my statistics</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -65,22 +65,23 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-JavaScript               1 hr 15 mins        █████████████░░░░░░░░░░░░   51.10 % 
-Python                   1 hr 11 mins        ████████████░░░░░░░░░░░░░   48.61 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   1 hr 11 mins        ███████████░░░░░░░░░░░░░░   43.46 % 
+JavaScript               58 mins             █████████░░░░░░░░░░░░░░░░   35.66 % 
+HTML                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Rust                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 15 mins        █████████████░░░░░░░░░░░░   51.27 % 
-VS Code                  1 hr 11 mins        ████████████░░░░░░░░░░░░░   48.73 % 
+WebStorm                 1 hr 27 mins        █████████████░░░░░░░░░░░░   53.46 % 
+VS Code                  1 hr 16 mins        ████████████░░░░░░░░░░░░░   46.54 % 
 
 🐱‍💻 Projects: 
-firstsite                1 hr 15 mins        █████████████░░░░░░░░░░░░   51.27 % 
-school                   1 hr 11 mins        ████████████░░░░░░░░░░░░░   48.73 % 
+firstsite                1 hr 27 mins        █████████████░░░░░░░░░░░░   53.46 % 
+school                   1 hr 11 mins        ███████████░░░░░░░░░░░░░░   43.57 % 
+lite-os                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 💻 Operating System: 
-Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -95,5 +96,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2025 01:09:57 UTC
+ Last Updated on 24/10/2025 01:06:49 UTC
 <!--END_SECTION:waka-->
