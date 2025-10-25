@@ -65,19 +65,19 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   1 hr 11 mins        ███████████░░░░░░░░░░░░░░   43.46 % 
-JavaScript               58 mins             █████████░░░░░░░░░░░░░░░░   35.66 % 
-HTML                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Python                   1 hr 10 mins        ███████████░░░░░░░░░░░░░░   43.38 % 
+JavaScript               58 mins             █████████░░░░░░░░░░░░░░░░   35.72 % 
+HTML                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
 Rust                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 27 mins        █████████████░░░░░░░░░░░░   53.46 % 
-VS Code                  1 hr 16 mins        ████████████░░░░░░░░░░░░░   46.54 % 
+WebStorm                 1 hr 27 mins        █████████████░░░░░░░░░░░░   53.54 % 
+VS Code                  1 hr 15 mins        ████████████░░░░░░░░░░░░░   46.46 % 
 
 🐱‍💻 Projects: 
-firstsite                1 hr 27 mins        █████████████░░░░░░░░░░░░   53.46 % 
-school                   1 hr 11 mins        ███████████░░░░░░░░░░░░░░   43.57 % 
+firstsite                1 hr 27 mins        █████████████░░░░░░░░░░░░   53.54 % 
+school                   1 hr 10 mins        ███████████░░░░░░░░░░░░░░   43.48 % 
 lite-os                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 💻 Operating System: 
@@ -96,5 +96,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2025 01:06:49 UTC
+ Last Updated on 25/10/2025 01:07:53 UTC
 <!--END_SECTION:waka-->
