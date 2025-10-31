@@ -1,5 +1,5 @@
 <h1>Hi! I`m XRMQD <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlzMWM1MzJwd2c5MG9lM2tmbDZ0Z2M0bXN3dDd2dTZnMHp0cDdrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hzBc3HCFc0icM/giphy.gif" width=30 /></h1>
-<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnh0MXBmZTViZjlzOXF4NHNyc3NlcThmaTlwcWNla2xvMzZ0YjV3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N4pCEjdaVEGvwzk8P2/giphy.gif" width="130">
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnh0MXBmZTViZjlzOXF4NHNyc3NlcThmaTlwcWNla2xvMzZ0YjV3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N4pCEjdaVEGvwzk8P2/giphy.gif" width="120">
 <p><em>Free developer and startup maker<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
