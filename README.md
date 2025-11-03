@@ -41,7 +41,7 @@ const xrmqd = {
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtncHljZWUxeW8zYnY2cDhraDE3M2JzNnZ3ejEzMW42aXA5Yng1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t7sEnf5w7wJ1CEPyy7/giphy.gif" width=20> A little of my statistics</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -59,6 +59,33 @@ const xrmqd = {
  > 
 > 🔑 9 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Yekaterinburg
+
+💬 Programming Languages: 
+Python                   3 hrs 5 mins        ████████████████████░░░░░   80.77 % 
+SQL                      27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+HTML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+
+🔥 Editors: 
+PyCharm                  2 hrs 29 mins       ████████████████░░░░░░░░░   64.87 % 
+VS Code                  1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+WebStorm                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+
+🐱‍💻 Projects: 
+mvp-tgbot                2 hrs 29 mins       ████████████████░░░░░░░░░   64.87 % 
+school                   1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+html-task                14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+firstsite                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+💻 Operating System: 
+Mac                      3 hrs 49 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -71,5 +98,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2025 01:15:43 UTC
+ Last Updated on 03/11/2025 01:14:48 UTC
 <!--END_SECTION:waka-->
