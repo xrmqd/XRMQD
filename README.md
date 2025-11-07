@@ -41,9 +41,9 @@ const xrmqd = {
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtncHljZWUxeW8zYnY2cDhraDE3M2JzNnZ3ejEzMW42aXA5Yng1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t7sEnf5w7wJ1CEPyy7/giphy.gif" width=20> A little of my statistics</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-424.8%20thousand%20lines%20of%20code-blue)
 
@@ -51,11 +51,11 @@ const xrmqd = {
 
 > 📦 11.9 kB Used in GitHub's Storage 
  > 
-> 🏆 235 Contributions in the Year 2025
+> 🏆 234 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
@@ -65,26 +65,26 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   5 hrs 47 mins       ████████████████████░░░░░   80.13 % 
-HTML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-SQL                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Python                   7 hrs 26 mins       ███████████████████░░░░░░   74.49 % 
+JavaScript               1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+HTML                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+CSV                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+SQL                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 33 mins       ████████████████░░░░░░░░░   63.04 % 
-VS Code                  1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   26.25 % 
-WebStorm                 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+PyCharm                  5 hrs 42 mins       ██████████████░░░░░░░░░░░   57.17 % 
+VS Code                  3 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.80 % 
+WebStorm                 1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
 
 🐱‍💻 Projects: 
-mvp-tgbot                4 hrs 33 mins       ████████████████░░░░░░░░░   63.04 % 
-school                   1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-html-task                46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-17                       11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-firstsite                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+mvp-tgbot                4 hrs 33 mins       ███████████░░░░░░░░░░░░░░   45.64 % 
+school                   2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+ai                       1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+html-task                46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+firstsite                25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 💻 Operating System: 
-Mac                      7 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,5 +99,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/11/2025 01:12:41 UTC
+ Last Updated on 07/11/2025 01:11:56 UTC
 <!--END_SECTION:waka-->
