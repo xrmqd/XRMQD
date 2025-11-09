@@ -65,26 +65,26 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   6 hrs 23 mins       ██████████████████░░░░░░░   71.83 % 
-JavaScript               1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-HTML                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-CSV                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-SQL                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Python                   5 hrs 59 mins       ██████████████████░░░░░░░   72.96 % 
+JavaScript               1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+HTML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+CSV                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+SQL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 42 mins       ████████████████░░░░░░░░░   64.04 % 
-VS Code                  2 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-WebStorm                 1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+PyCharm                  5 hrs 14 mins       ████████████████░░░░░░░░░   63.85 % 
+VS Code                  2 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+WebStorm                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
 
 🐱‍💻 Projects: 
-mvp-tgbot                4 hrs 33 mins       █████████████░░░░░░░░░░░░   51.12 % 
-school                   1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-ai                       1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-html-task                46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-firstsite                25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+mvp-tgbot                4 hrs 5 mins        ████████████░░░░░░░░░░░░░   49.84 % 
+school                   1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+ai                       1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+html-task                32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+firstsite                25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 
 💻 Operating System: 
-Mac                      8 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,5 +99,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2025 01:08:39 UTC
+ Last Updated on 09/11/2025 01:15:22 UTC
 <!--END_SECTION:waka-->
