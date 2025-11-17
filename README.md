@@ -45,19 +45,19 @@ const xrmqd = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-424.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-425.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 11.9 kB Used in GitHub's Storage 
  > 
-> 🏆 234 Contributions in the Year 2025
+> 🏆 236 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -65,23 +65,23 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-JavaScript               41 mins             ███████████████░░░░░░░░░░   61.78 % 
-Python                   14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-HTML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-textmate                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+JavaScript               41 mins             ████████████████░░░░░░░░░   62.05 % 
+Python                   14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+HTML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+textmate                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🔥 Editors: 
-WebStorm                 52 mins             ███████████████████░░░░░░   77.98 % 
-VS Code                  13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-PyCharm                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+WebStorm                 52 mins             ████████████████████░░░░░   78.33 % 
+VS Code                  13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🐱‍💻 Projects: 
-simple-proj              41 mins             ███████████████░░░░░░░░░░   61.04 % 
-school                   13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-my-app                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-html-task                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-mvp-tgbot                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+simple-proj              41 mins             ███████████████░░░░░░░░░░   61.32 % 
+school                   13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+my-app                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+html-task                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+mvp-tgbot                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 💻 Operating System: 
 Mac                      1 hr 7 mins         █████████████████████████   100.00 % 
@@ -90,14 +90,14 @@ Mac                      1 hr 7 mins         ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   16 repos            ████████████████████░░░░░   80.00 % 
-Kotlin                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Python                   16 repos            ███████████████████░░░░░░   76.19 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Kotlin                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
 
 
- Last Updated on 16/11/2025 01:17:14 UTC
+ Last Updated on 17/11/2025 01:13:26 UTC
 <!--END_SECTION:waka-->
