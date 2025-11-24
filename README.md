@@ -66,20 +66,20 @@ const xrmqd = {
 
 💬 Programming Languages: 
 Python                   1 hr 19 mins        ██████████████░░░░░░░░░░░   57.41 % 
-TypeScript               44 mins             ████████░░░░░░░░░░░░░░░░░   32.21 % 
+TypeScript               44 mins             ████████░░░░░░░░░░░░░░░░░   32.22 % 
 JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  1 hr                ███████████░░░░░░░░░░░░░░   43.32 % 
-WebStorm                 59 mins             ███████████░░░░░░░░░░░░░░   42.52 % 
-PyCharm                  19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+VS Code                  1 hr                ███████████░░░░░░░░░░░░░░   43.33 % 
+WebStorm                 59 mins             ███████████░░░░░░░░░░░░░░   42.53 % 
+PyCharm                  19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
 
 🐱‍💻 Projects: 
-school                   1 hr 5 mins         ████████████░░░░░░░░░░░░░   47.00 % 
+school                   1 hr 5 mins         ████████████░░░░░░░░░░░░░   47.01 % 
 tsc-ex                   47 mins             ████████░░░░░░░░░░░░░░░░░   33.96 % 
-mvp-tgbot                14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+mvp-tgbot                14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
 Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 simple-proj              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
@@ -99,5 +99,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2025 01:21:50 UTC
+ Last Updated on 24/11/2025 01:17:07 UTC
 <!--END_SECTION:waka-->
