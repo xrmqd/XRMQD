@@ -65,26 +65,26 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   4 hrs 33 mins       █████████████░░░░░░░░░░░░   52.23 % 
-Bash                     2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-Env File                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Python                   4 hrs 44 mins       ███████████████░░░░░░░░░░   58.40 % 
+Bash                     1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+Env File                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-PyCharm                  7 hrs 26 mins       █████████████████████░░░░   85.29 % 
-VS Code                  1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-WebStorm                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+PyCharm                  7 hrs 55 mins       ████████████████████████░   97.45 % 
+WebStorm                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-remnawave-telegram-bot   5 hrs 52 mins       █████████████████░░░░░░░░   67.42 % 
-PythonProject            1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Unknown Project          1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-LightEditProject         12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-mvp-tgbot                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+remnawave-telegram-bot   6 hrs 21 mins       ████████████████████░░░░░   78.28 % 
+PythonProject            1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+LightEditProject         12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+mvp-tgbot                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+vpn-bot                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Mac                      8 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,5 +99,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2025 01:15:09 UTC
+ Last Updated on 06/12/2025 01:11:21 UTC
 <!--END_SECTION:waka-->
