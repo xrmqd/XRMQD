@@ -49,7 +49,7 @@ const xrmqd = {
 
 **🐱 My GitHub Data** 
 
-> 📦 12.0 kB Used in GitHub's Storage 
+> 📦 11.9 kB Used in GitHub's Storage 
  > 
 > 🏆 246 Contributions in the Year 2025
  > 
@@ -65,23 +65,23 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   3 hrs 37 mins       ████████████░░░░░░░░░░░░░   48.10 % 
-Bash                     2 hrs               ███████░░░░░░░░░░░░░░░░░░   26.58 % 
-HTML                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Env File                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Python                   3 hrs 39 mins       ███████████░░░░░░░░░░░░░░   43.78 % 
+Bash                     2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   30.62 % 
+HTML                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Env File                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🔥 Editors: 
-PyCharm                  6 hrs 40 mins       ██████████████████████░░░   88.39 % 
-Cursor                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+PyCharm                  7 hrs 28 mins       ██████████████████████░░░   89.51 % 
+Cursor                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
 
 🐱‍💻 Projects: 
-remnawave-telegram-bot   6 hrs 5 mins        ████████████████████░░░░░   80.59 % 
-JsonToCSVProcessor       58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-PythonProject            29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+remnawave-telegram-bot   6 hrs 53 mins       █████████████████████░░░░   82.42 % 
+JsonToCSVProcessor       58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+PythonProject            29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 💻 Operating System: 
-Mac                      7 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +96,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2025 01:15:11 UTC
+ Last Updated on 09/12/2025 01:14:43 UTC
 <!--END_SECTION:waka-->
