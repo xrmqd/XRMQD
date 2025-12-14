@@ -41,7 +41,7 @@ const xrmqd = {
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtncHljZWUxeW8zYnY2cDhraDE3M2JzNnZ3ejEzMW42aXA5Yng1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t7sEnf5w7wJ1CEPyy7/giphy.gif" width=20> A little of my statistics</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,22 +65,24 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   1 hr 8 mins         ███████████░░░░░░░░░░░░░░   43.16 % 
-HTML                     56 mins             █████████░░░░░░░░░░░░░░░░   35.49 % 
-Bash                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Env File                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Python                   57 mins             █████████████████░░░░░░░░   69.29 % 
+Bash                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+CSV                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Env File                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 46 mins        █████████████████░░░░░░░░   66.90 % 
-Cursor                   52 mins             ████████░░░░░░░░░░░░░░░░░   33.10 % 
+PyCharm                  1 hr 13 mins        ██████████████████████░░░   89.29 % 
+VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🐱‍💻 Projects: 
-remnawave-telegram-bot   1 hr 40 mins        ████████████████░░░░░░░░░   62.95 % 
-JsonToCSVProcessor       58 mins             █████████░░░░░░░░░░░░░░░░   37.05 % 
+JsonToCSVProcessor       58 mins             ██████████████████░░░░░░░   71.42 % 
+remnawave-telegram-bot   15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Unknown Project          7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
 
 💻 Operating System: 
-Mac                      2 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -95,5 +97,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2025 01:12:32 UTC
+ Last Updated on 14/12/2025 01:21:52 UTC
 <!--END_SECTION:waka-->
