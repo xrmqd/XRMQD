@@ -65,24 +65,21 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   57 mins             █████████████████░░░░░░░░   69.29 % 
-Bash                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-CSV                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Env File                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Bash                     10 mins             ███████████░░░░░░░░░░░░░░   43.17 % 
+CSV                      7 mins              ████████░░░░░░░░░░░░░░░░░   33.69 % 
+Env File                 5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 13 mins        ██████████████████████░░░   89.29 % 
-VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+PyCharm                  15 mins             █████████████████░░░░░░░░   66.02 % 
+VS Code                  8 mins              ████████░░░░░░░░░░░░░░░░░   33.98 % 
 
 🐱‍💻 Projects: 
-JsonToCSVProcessor       58 mins             ██████████████████░░░░░░░   71.42 % 
-remnawave-telegram-bot   15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Unknown Project          7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+remnawave-telegram-bot   15 mins             █████████████████░░░░░░░░   66.02 % 
+Unknown Project          8 mins              ████████░░░░░░░░░░░░░░░░░   33.98 % 
 
 💻 Operating System: 
-Mac                      1 hr 22 mins        █████████████████████████   100.00 % 
+Mac                      23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -97,5 +94,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/12/2025 01:21:52 UTC
+ Last Updated on 15/12/2025 01:19:05 UTC
 <!--END_SECTION:waka-->
