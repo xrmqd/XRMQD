@@ -51,7 +51,7 @@ const xrmqd = {
 
 > 📦 12.0 kB Used in GitHub's Storage 
  > 
-> 🏆 246 Contributions in the Year 2025
+> 🏆 247 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,18 +65,20 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Bash                     10 mins             ███████████░░░░░░░░░░░░░░   43.17 % 
-CSV                      7 mins              ████████░░░░░░░░░░░░░░░░░   33.69 % 
-Env File                 5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+Bash                     10 mins             ███████████░░░░░░░░░░░░░░   43.12 % 
+CSV                      7 mins              ████████░░░░░░░░░░░░░░░░░   33.65 % 
+Env File                 5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-PyCharm                  15 mins             █████████████████░░░░░░░░   66.02 % 
-VS Code                  8 mins              ████████░░░░░░░░░░░░░░░░░   33.98 % 
+PyCharm                  15 mins             █████████████████░░░░░░░░   66.06 % 
+VS Code                  8 mins              ████████░░░░░░░░░░░░░░░░░   33.94 % 
 
 🐱‍💻 Projects: 
-remnawave-telegram-bot   15 mins             █████████████████░░░░░░░░   66.02 % 
-Unknown Project          8 mins              ████████░░░░░░░░░░░░░░░░░   33.98 % 
+remnawave-telegram-bot   15 mins             ████████████████░░░░░░░░░   65.95 % 
+Unknown Project          8 mins              ████████░░░░░░░░░░░░░░░░░   33.94 % 
+JsonToCSVProcessor       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
 Mac                      23 mins             █████████████████████████   100.00 % 
@@ -94,5 +96,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2025 01:19:05 UTC
+ Last Updated on 16/12/2025 01:17:48 UTC
 <!--END_SECTION:waka-->
