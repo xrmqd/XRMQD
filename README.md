@@ -65,22 +65,22 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-JSON                     50 mins             ███████████░░░░░░░░░░░░░░   42.90 % 
-Python                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-HTML                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-CSS                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-JavaScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Python                   24 mins             █████████░░░░░░░░░░░░░░░░   34.43 % 
+HTML                     20 mins             ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+CSS                      10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+JavaScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 17 mins        ████████████████░░░░░░░░░   65.45 % 
-WebStorm                 40 mins             █████████░░░░░░░░░░░░░░░░   34.55 % 
+WebStorm                 40 mins             ██████████████░░░░░░░░░░░   57.75 % 
+PyCharm                  29 mins             ███████████░░░░░░░░░░░░░░   42.25 % 
 
 🐱‍💻 Projects: 
-remnawave-telegram-bot   1 hr 17 mins        ████████████████░░░░░░░░░   65.45 % 
-html-task                40 mins             █████████░░░░░░░░░░░░░░░░   34.55 % 
+html-task                40 mins             ██████████████░░░░░░░░░░░   57.75 % 
+remnawave-telegram-bot   29 mins             ███████████░░░░░░░░░░░░░░   42.25 % 
 
 💻 Operating System: 
-Mac                      1 hr 58 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -95,5 +95,5 @@ Kotlin                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2025 01:25:30 UTC
+ Last Updated on 29/12/2025 01:23:09 UTC
 <!--END_SECTION:waka-->
