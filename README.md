@@ -45,7 +45,7 @@ const xrmqd = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-487.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-487.11%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -65,20 +65,20 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-YAML                     57 mins             ███████████████░░░░░░░░░░   58.50 % 
-Python                   29 mins             ████████░░░░░░░░░░░░░░░░░   30.21 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-GitIgnore file           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+YAML                     57 mins             █████████████████████░░░░   85.72 % 
+Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+GitIgnore file           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 37 mins        █████████████████████████   100.00 % 
+PyCharm                  1 hr 6 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-remnawave-telegram-bot   1 hr 37 mins        █████████████████████████   100.00 % 
+remnawave-telegram-bot   1 hr 6 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 37 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +93,5 @@ Kotlin                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2026 01:25:23 UTC
+ Last Updated on 02/01/2026 01:19:16 UTC
 <!--END_SECTION:waka-->
