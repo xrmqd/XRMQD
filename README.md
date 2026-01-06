@@ -41,9 +41,11 @@ const xrmqd = {
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtncHljZWUxeW8zYnY2cDhraDE3M2JzNnZ3ejEzMW42aXA5Yng1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t7sEnf5w7wJ1CEPyy7/giphy.gif" width=20> A little of my statistics</h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%2022%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-458.88%20thousand%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-478.66%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -57,6 +59,28 @@ const xrmqd = {
  > 
 > 🔑 13 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Yekaterinburg
+
+💬 Programming Languages: 
+YAML                     1 hr 42 mins        █████████████████████░░░░   85.35 % 
+Python                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+GitIgnore file           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+
+🔥 Editors: 
+PyCharm                  2 hrs               █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+remnawave-telegram-bot   2 hrs               █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      2 hrs               █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -69,5 +93,5 @@ Kotlin                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 01:26:07 UTC
+ Last Updated on 06/01/2026 01:19:02 UTC
 <!--END_SECTION:waka-->
