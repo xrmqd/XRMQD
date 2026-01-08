@@ -65,21 +65,21 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-YAML                     1 hr 41 mins        ██████████████████░░░░░░░   73.75 % 
-Python                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Bash                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-GitIgnore file           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+YAML                     45 mins             ███████████████░░░░░░░░░░   59.23 % 
+Python                   11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Bash                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+SQL                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 17 mins       █████████████████████████   100.00 % 
+PyCharm                  1 hr 17 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-remnawave-telegram-bot   1 hr 54 mins        █████████████████████░░░░   83.23 % 
-mvp-tgbot                23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+remnawave-telegram-bot   54 mins             ██████████████████░░░░░░░   70.15 % 
+mvp-tgbot                23 mins             ███████░░░░░░░░░░░░░░░░░░   29.85 % 
 
 💻 Operating System: 
-Mac                      2 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,5 +94,5 @@ Kotlin                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2026 01:19:21 UTC
+ Last Updated on 08/01/2026 01:19:42 UTC
 <!--END_SECTION:waka-->
