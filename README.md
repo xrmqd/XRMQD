@@ -41,7 +41,7 @@ const xrmqd = {
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtncHljZWUxeW8zYnY2cDhraDE3M2JzNnZ3ejEzMW42aXA5Yng1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t7sEnf5w7wJ1CEPyy7/giphy.gif" width=20> A little of my statistics</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-348%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-348%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue?style=flat)
 
@@ -51,7 +51,7 @@ const xrmqd = {
 
 > 📦 12.0 kB Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2026
+> 🏆 9 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,40 +65,41 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   31.21 % 
-Bash                     1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-Text                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-JSON                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-JavaScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Python                   2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.02 % 
+Bash                     1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Text                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+JSON                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+JavaScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 56 mins       ████████████████░░░░░░░░░   62.97 % 
-VS Code                  1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-Cursor                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-WebStorm                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+PyCharm                  4 hrs 20 mins       ████████████████░░░░░░░░░   64.96 % 
+VS Code                  1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Cursor                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+WebStorm                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 
 🐱‍💻 Projects: 
-remnawave-telegram-bot   3 hrs 57 mins       ████████████████░░░░░░░░░   63.22 % 
-school                   1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-vkcloud-script           33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-17                       16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-LightEditProject         16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+remnawave-telegram-bot   4 hrs 21 mins       ████████████████░░░░░░░░░   65.13 % 
+school                   1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+vkcloud-script           33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+LightEditProject         16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+17                       12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 💻 Operating System: 
-Mac                      6 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ███████████████████░░░░░░   76.00 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Kotlin                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Python                   19 repos            ██████████████████░░░░░░░   73.08 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Kotlin                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 19/01/2026 01:23:34 UTC
+ Last Updated on 20/01/2026 01:19:09 UTC
 <!--END_SECTION:waka-->
