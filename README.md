@@ -14,7 +14,7 @@ const xrmqd = {
     askMeAbout: ["web dev", "app dev", "backend dev"],
     technologies: {
         frontEnd: {
-            js: ["Angular"],
+            js: ["React"],
         },
         backEnd: {
             python: ["fastapi"],
