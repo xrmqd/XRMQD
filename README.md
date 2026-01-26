@@ -51,7 +51,7 @@ const xrmqd = {
 
 > 📦 12.0 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2026
+> 🏆 17 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,25 +65,25 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-TypeScript               2 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   30.96 % 
-Python                   1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Bash                     1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-JSON                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Text                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+TypeScript               2 hrs 13 mins       ████████████████░░░░░░░░░   62.76 % 
+Python                   54 mins             ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 18 mins       ███████████████░░░░░░░░░░   60.63 % 
-WebStorm                 2 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   39.37 % 
+WebStorm                 2 hrs 31 mins       ██████████████████░░░░░░░   71.22 % 
+PyCharm                  1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   28.78 % 
 
 🐱‍💻 Projects: 
-remnawave-telegram-bot   4 hrs 17 mins       ███████████████░░░░░░░░░░   60.49 % 
-simple-tsx               2 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   31.18 % 
-LightEditProject         16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-swiftmask-cabinet        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-simple                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+simple-tsx               2 hrs 14 mins       ████████████████░░░░░░░░░   63.19 % 
+remnawave-telegram-bot   59 mins             ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+swiftmask-cabinet        15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+simple                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+JsonToCSVProcessor       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Mac                      7 hrs 5 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,5 +99,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/01/2026 01:27:15 UTC
+ Last Updated on 26/01/2026 01:25:57 UTC
 <!--END_SECTION:waka-->
