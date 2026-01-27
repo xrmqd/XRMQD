@@ -65,25 +65,25 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-TypeScript               2 hrs 13 mins       ████████████████░░░░░░░░░   62.76 % 
-Python                   54 mins             ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+TypeScript               2 hrs 13 mins       ██████████████████░░░░░░░   73.25 % 
+Python                   30 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 Editors: 
-WebStorm                 2 hrs 31 mins       ██████████████████░░░░░░░   71.22 % 
-PyCharm                  1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   28.78 % 
+WebStorm                 2 hrs 25 mins       ████████████████████░░░░░   79.70 % 
+PyCharm                  37 mins             █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
 
 🐱‍💻 Projects: 
-simple-tsx               2 hrs 14 mins       ████████████████░░░░░░░░░   63.19 % 
-remnawave-telegram-bot   59 mins             ███████░░░░░░░░░░░░░░░░░░   27.99 % 
-swiftmask-cabinet        15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-simple                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-JsonToCSVProcessor       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+simple-tsx               2 hrs 14 mins       ██████████████████░░░░░░░   73.75 % 
+remnawave-telegram-bot   35 mins             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+swiftmask-cabinet        9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+simple                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+JsonToCSVProcessor       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 💻 Operating System: 
-Mac                      3 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,5 +99,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/01/2026 01:25:57 UTC
+ Last Updated on 27/01/2026 01:25:14 UTC
 <!--END_SECTION:waka-->
