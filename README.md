@@ -65,25 +65,25 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   2 hrs 14 mins       ████████████░░░░░░░░░░░░░   48.18 % 
-TypeScript               1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-HTML                     49 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Python                   1 hr 48 mins        ███████████░░░░░░░░░░░░░░   43.96 % 
+TypeScript               1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   31.30 % 
+HTML                     49 mins             █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 21 mins       █████████████░░░░░░░░░░░░   50.73 % 
-WebStorm                 2 hrs 17 mins       ████████████░░░░░░░░░░░░░   49.27 % 
+WebStorm                 2 hrs 17 mins       ██████████████░░░░░░░░░░░   55.76 % 
+PyCharm                  1 hr 49 mins        ███████████░░░░░░░░░░░░░░   44.24 % 
 
 🐱‍💻 Projects: 
-school                   1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   30.27 % 
-react-context-examples   1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-html-learn               58 mins             █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-remnawave-telegram-bot   52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-simple-tsx               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+school                   1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   34.26 % 
+react-context-examples   1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+html-learn               58 mins             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+remnawave-telegram-bot   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+simple-tsx               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 💻 Operating System: 
-Mac                      4 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,5 +99,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2026 01:27:48 UTC
+ Last Updated on 01/02/2026 01:55:16 UTC
 <!--END_SECTION:waka-->
