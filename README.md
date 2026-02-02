@@ -65,21 +65,21 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   1 hr 48 mins        ███████████░░░░░░░░░░░░░░   43.96 % 
-TypeScript               1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   31.30 % 
+Python                   1 hr 48 mins        ███████████░░░░░░░░░░░░░░   43.98 % 
+TypeScript               1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   31.29 % 
 HTML                     49 mins             █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-WebStorm                 2 hrs 17 mins       ██████████████░░░░░░░░░░░   55.76 % 
-PyCharm                  1 hr 49 mins        ███████████░░░░░░░░░░░░░░   44.24 % 
+WebStorm                 2 hrs 17 mins       ██████████████░░░░░░░░░░░   55.74 % 
+PyCharm                  1 hr 49 mins        ███████████░░░░░░░░░░░░░░   44.26 % 
 
 🐱‍💻 Projects: 
-school                   1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   34.26 % 
-react-context-examples   1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-html-learn               58 mins             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-remnawave-telegram-bot   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+school                   1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   34.25 % 
+react-context-examples   1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+html-learn               58 mins             ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+remnawave-telegram-bot   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
 simple-tsx               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 💻 Operating System: 
@@ -99,5 +99,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2026 01:55:16 UTC
+ Last Updated on 02/02/2026 01:48:21 UTC
 <!--END_SECTION:waka-->
