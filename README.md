@@ -65,24 +65,24 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-TypeScript               9 hrs 40 mins       █████████████████░░░░░░░░   68.55 % 
-CSS                      1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Python                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+TypeScript               9 hrs 4 mins        ███████████████████░░░░░░   75.62 % 
+CSS                      1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Python                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Docker                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-Webstorm                 11 hrs 52 mins      █████████████████████░░░░   84.11 % 
-VS Code                  2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Webstorm                 11 hrs 7 mins       ███████████████████████░░   92.72 % 
+VS Code                  51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-frontend                 11 hrs 52 mins      █████████████████████░░░░   84.11 % 
-spybot                   1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-backend                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+frontend                 11 hrs 7 mins       ███████████████████████░░   92.72 % 
+backend                  46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+spybot                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 💻 Operating System: 
-Mac                      14 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -98,5 +98,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2026 01:47:52 UTC
+ Last Updated on 17/02/2026 01:46:25 UTC
 <!--END_SECTION:waka-->
