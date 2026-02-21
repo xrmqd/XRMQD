@@ -49,7 +49,7 @@ const xrmqd = {
 
 **🐱 My GitHub Data** 
 
-> 📦 12.0 kB Used in GitHub's Storage 
+> 📦 12.1 kB Used in GitHub's Storage 
  > 
 > 🏆 46 Contributions in the Year 2026
  > 
@@ -65,24 +65,23 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-TypeScript               4 hrs 12 mins       ███████████████████░░░░░░   75.38 % 
-CSS                      39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Nginx configuration file 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+TypeScript               2 hrs 46 mins       ██████████████████░░░░░░░   73.66 % 
+CSS                      39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Nginx configuration file 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-Webstorm                 5 hrs 1 min         ██████████████████████░░░   89.96 % 
-VS Code                  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Webstorm                 3 hrs 35 mins       ████████████████████████░   95.86 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 🐱‍💻 Projects: 
-frontend                 5 hrs 1 min         ██████████████████████░░░   89.96 % 
-backend                  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-remnawave-telegram-bot   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+frontend                 3 hrs 35 mins       ████████████████████████░   95.86 % 
+backend                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+remnawave-telegram-bot   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Mac                      5 hrs 35 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -98,5 +97,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/02/2026 01:44:29 UTC
+ Last Updated on 21/02/2026 01:30:12 UTC
 <!--END_SECTION:waka-->
