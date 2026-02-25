@@ -65,22 +65,20 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-TypeScript               12 mins             ████████████████████░░░░░   80.23 % 
-Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+TypeScript               12 mins             █████████████████████████   99.38 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Webstorm                 12 mins             ████████████████████░░░░░   80.73 % 
-VS Code                  2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Webstorm                 12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-frontend                 12 mins             ████████████████████░░░░░   80.73 % 
-remnawave-telegram-bot   2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+frontend                 12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +94,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/02/2026 01:45:39 UTC
+ Last Updated on 25/02/2026 01:48:46 UTC
 <!--END_SECTION:waka-->
