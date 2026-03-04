@@ -41,7 +41,7 @@ const xrmqd = {
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtncHljZWUxeW8zYnY2cDhraDE3M2JzNnZ3ejEzMW42aXA5Yng1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t7sEnf5w7wJ1CEPyy7/giphy.gif" width=20> A little of my statistics</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -65,22 +65,25 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-TypeScript               21 mins             ████████████████░░░░░░░░░   65.50 % 
-JSON                     10 mins             ████████░░░░░░░░░░░░░░░░░   30.40 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+TypeScript               31 mins             ███████████░░░░░░░░░░░░░░   43.06 % 
+Python                   29 mins             ██████████░░░░░░░░░░░░░░░   41.26 % 
+JSON                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Webstorm                 22 mins             █████████████████░░░░░░░░   69.62 % 
-Cursor                   10 mins             ████████░░░░░░░░░░░░░░░░░   30.38 % 
+Webstorm                 32 mins             ███████████░░░░░░░░░░░░░░   44.93 % 
+Pycharm                  30 mins             ██████████░░░░░░░░░░░░░░░   41.30 % 
+Cursor                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
 
 🐱‍💻 Projects: 
-frontend                 22 mins             █████████████████░░░░░░░░   69.62 % 
-83b11c0bc199a3c6ee87df0a010 mins             ████████░░░░░░░░░░░░░░░░░   30.38 % 
+frontend                 32 mins             ███████████░░░░░░░░░░░░░░   44.93 % 
+izumrud                  29 mins             ██████████░░░░░░░░░░░░░░░   41.26 % 
+83b11c0bc199a3c6ee87df0a010 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+PythonProject            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Mac                      32 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +99,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/03/2026 01:47:57 UTC
+ Last Updated on 04/03/2026 01:42:38 UTC
 <!--END_SECTION:waka-->
