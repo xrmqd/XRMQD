@@ -51,7 +51,7 @@ const xrmqd = {
 
 > 📦 12.1 kB Used in GitHub's Storage 
  > 
-> 🏆 54 Contributions in the Year 2026
+> 🏆 55 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,26 +65,26 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   2 hrs 17 mins       ███████████████░░░░░░░░░░   60.07 % 
-TypeScript               1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Java                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Python                   2 hrs 17 mins       █████████████████░░░░░░░░   67.41 % 
+TypeScript               43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Java                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-Pycharm                  2 hrs 7 mins        ██████████████░░░░░░░░░░░   56.07 % 
-Webstorm                 1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   30.03 % 
-VS Code                  31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Pycharm                  2 hrs 8 mins        ████████████████░░░░░░░░░   62.94 % 
+Webstorm                 44 mins             █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+VS Code                  31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
 
 🐱‍💻 Projects: 
-school                   1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   38.53 % 
-frontend                 1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   30.03 % 
-remnawave-telegram-bot   47 mins             █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-backend                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-max                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+school                   1 hr 27 mins        ███████████░░░░░░░░░░░░░░   43.07 % 
+remnawave-telegram-bot   47 mins             ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+frontend                 44 mins             █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+backend                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+max                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 💻 Operating System: 
-Mac                      3 hrs 48 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,5 +100,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/03/2026 01:29:10 UTC
+ Last Updated on 12/03/2026 01:29:07 UTC
 <!--END_SECTION:waka-->
