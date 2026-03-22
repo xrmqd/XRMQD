@@ -51,7 +51,7 @@ const xrmqd = {
 
 > 📦 12.1 kB Used in GitHub's Storage 
  > 
-> 🏆 62 Contributions in the Year 2026
+> 🏆 63 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,22 +65,23 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   2 hrs 29 mins       ████████████████████████░   94.58 % 
-CSV/TSV                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Python                   2 hrs 12 mins       ████████████████████████░   95.69 % 
+CSV/TSV                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Pycharm                  2 hrs 27 mins       ███████████████████████░░   93.25 % 
-VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Pycharm                  2 hrs 7 mins        ███████████████████████░░   92.28 % 
+VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-school                   2 hrs 18 mins       ██████████████████████░░░   87.24 % 
-remnawave-telegram-bot   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+school                   2 hrs 18 mins       █████████████████████████   99.69 % 
+remnawave-telegram-bot   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Mac                      2 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +97,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/03/2026 01:29:19 UTC
+ Last Updated on 22/03/2026 01:50:57 UTC
 <!--END_SECTION:waka-->
