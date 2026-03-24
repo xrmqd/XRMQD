@@ -45,13 +45,13 @@ const xrmqd = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.51%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.52%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 12.1 kB Used in GitHub's Storage 
  > 
-> 🏆 64 Contributions in the Year 2026
+> 🏆 70 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,15 +89,15 @@ Mac                      2 hrs 51 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   20 repos            ███████████████████░░░░░░   74.07 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Kotlin                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Python                   21 repos            ███████████████████░░░░░░   75.00 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Kotlin                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
 
 
- Last Updated on 23/03/2026 01:52:32 UTC
+ Last Updated on 24/03/2026 01:44:32 UTC
 <!--END_SECTION:waka-->
