@@ -65,25 +65,24 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   2 hrs 43 mins       ████████████████████████░   95.38 % 
-CSV/TSV                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Python                   1 hr 54 mins        ████████████████████████░   97.15 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-Pycharm                  2 hrs 7 mins        ███████████████████░░░░░░   74.55 % 
-Trae                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Pycharm                  1 hr 24 mins        ██████████████████░░░░░░░   72.04 % 
+Trae                     31 mins             ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🐱‍💻 Projects: 
-school                   2 hrs 18 mins       ████████████████████░░░░░   80.57 % 
-mvp-tgbot                31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-remnawave-telegram-bot   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+school                   1 hr 24 mins        ██████████████████░░░░░░░   72.04 % 
+mvp-tgbot                31 mins             ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+remnawave-telegram-bot   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 💻 Operating System: 
-Mac                      2 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,5 +98,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/03/2026 01:44:32 UTC
+ Last Updated on 25/03/2026 01:50:16 UTC
 <!--END_SECTION:waka-->
