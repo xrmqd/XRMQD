@@ -43,7 +43,7 @@ const xrmqd = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2024%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.52%20million%20lines%20of%20code-blue?style=flat)
 
@@ -65,24 +65,22 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   1 hr 54 mins        ████████████████████████░   97.15 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Python                   31 mins             ████████████████████████░   94.05 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-Pycharm                  1 hr 24 mins        ██████████████████░░░░░░░   72.04 % 
-Trae                     31 mins             ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Trae                     31 mins             ████████████████████████░   95.13 % 
+PyCharm                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🐱‍💻 Projects: 
-school                   1 hr 24 mins        ██████████████████░░░░░░░   72.04 % 
-mvp-tgbot                31 mins             ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-remnawave-telegram-bot   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+mvp-tgbot                31 mins             ████████████████████████░   95.13 % 
+remnawave-telegram-bot   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 💻 Operating System: 
-Mac                      1 hr 57 mins        █████████████████████████   100.00 % 
+Mac                      33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -98,5 +96,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2026 01:56:30 UTC
+ Last Updated on 27/03/2026 01:56:52 UTC
 <!--END_SECTION:waka-->
