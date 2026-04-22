@@ -41,7 +41,7 @@ const xrmqd = {
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtncHljZWUxeW8zYnY2cDhraDE3M2JzNnZ3ejEzMW42aXA5Yng1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t7sEnf5w7wJ1CEPyy7/giphy.gif" width=20> A little of my statistics</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -65,19 +65,21 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   6 hrs 32 mins       █████████████████████████   98.39 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   3 hrs 42 mins       ████████████████████████░   97.06 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PyCharm                  6 hrs 39 mins       █████████████████████████   100.00 % 
+PyCharm                  3 hrs 46 mins       █████████████████████████   98.67 % 
+Notes                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🐱‍💻 Projects: 
-school                   6 hrs 39 mins       █████████████████████████   100.00 % 
+school                   3 hrs 49 mins       █████████████████████████   99.91 % 
+remnawave-telegram-bot   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      6 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +95,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2026 02:06:36 UTC
+ Last Updated on 22/04/2026 02:04:48 UTC
 <!--END_SECTION:waka-->
