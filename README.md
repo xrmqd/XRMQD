@@ -65,22 +65,22 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   3 hrs 43 mins       ████████████████████████░   96.80 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   50 mins             ███████████████████████░░   91.83 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 47 mins       █████████████████████████   98.68 % 
-Notes                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+PyCharm                  51 mins             ████████████████████████░   94.44 % 
+Notes                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 
 🐱‍💻 Projects: 
-school                   3 hrs 49 mins       █████████████████████████   99.31 % 
-remnawave-telegram-bot   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+school                   53 mins             ████████████████████████░   97.09 % 
+remnawave-telegram-bot   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 💻 Operating System: 
-Mac                      3 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      54 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +96,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/04/2026 02:08:41 UTC
+ Last Updated on 24/04/2026 02:09:28 UTC
 <!--END_SECTION:waka-->
