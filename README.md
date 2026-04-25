@@ -45,13 +45,13 @@ const xrmqd = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.56%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.57%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 12.1 kB Used in GitHub's Storage 
  > 
-> 🏆 85 Contributions in the Year 2026
+> 🏆 86 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,22 +65,22 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   50 mins             ███████████████████████░░   91.83 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Python                   52 mins             ███████████████████████░░   92.14 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-PyCharm                  51 mins             ████████████████████████░   94.44 % 
-Notes                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+PyCharm                  53 mins             ████████████████████████░   94.65 % 
+Notes                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 🐱‍💻 Projects: 
-school                   53 mins             ████████████████████████░   97.09 % 
-remnawave-telegram-bot   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+school                   55 mins             ████████████████████████░   97.20 % 
+remnawave-telegram-bot   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 💻 Operating System: 
-Mac                      54 mins             █████████████████████████   100.00 % 
+Mac                      57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +96,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/04/2026 02:09:28 UTC
+ Last Updated on 25/04/2026 01:59:29 UTC
 <!--END_SECTION:waka-->
