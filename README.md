@@ -65,23 +65,23 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   1 hr 30 mins        █████████████████░░░░░░░░   68.22 % 
-Bash                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Other                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Python                   39 mins             █████████████░░░░░░░░░░░░   50.44 % 
+Bash                     17 mins             ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+Other                    14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 56 mins        ██████████████████████░░░   87.15 % 
-Notes                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+PyCharm                  1 hr 3 mins         ████████████████████░░░░░   81.89 % 
+Notes                    14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
 
 🐱‍💻 Projects: 
-school                   1 hr 52 mins        █████████████████████░░░░   84.57 % 
-mvp-tgbot                18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-remnawave-telegram-bot   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+school                   57 mins             ██████████████████░░░░░░░   73.80 % 
+mvp-tgbot                18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+remnawave-telegram-bot   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 💻 Operating System: 
-Mac                      2 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -97,5 +97,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/04/2026 02:30:45 UTC
+ Last Updated on 29/04/2026 02:31:14 UTC
 <!--END_SECTION:waka-->
