@@ -65,22 +65,22 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   1 hr 10 mins        ████████████████░░░░░░░░░   64.07 % 
-Bash                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Other                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-PythonStub               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Python                   1 hr 10 mins        ████████████████░░░░░░░░░   63.60 % 
+Bash                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Other                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 35 mins        ██████████████████████░░░   87.14 % 
-Notes                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+PyCharm                  1 hr 36 mins        ██████████████████████░░░   87.26 % 
+Notes                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
 
 🐱‍💻 Projects: 
-school                   1 hr 30 mins        █████████████████████░░░░   82.66 % 
-mvp-tgbot                18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+school                   1 hr 30 mins        █████████████████████░░░░   82.01 % 
+mvp-tgbot                19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
 
 💻 Operating System: 
-Mac                      1 hr 49 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +96,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2026 02:37:13 UTC
+ Last Updated on 02/05/2026 02:13:21 UTC
 <!--END_SECTION:waka-->
