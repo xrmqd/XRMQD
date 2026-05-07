@@ -65,20 +65,20 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   1 hr 53 mins        ██████████████████████░░░   86.71 % 
-C++                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-PythonStub               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Python                   1 hr 49 mins        ██████████████████████░░░   86.23 % 
+C++                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+PythonStub               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 1 min         ███████████████████████░░   92.39 % 
-Xcode                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+PyCharm                  1 hr 56 mins        ███████████████████████░░   92.12 % 
+Xcode                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 
 🐱‍💻 Projects: 
-school                   2 hrs 11 mins       █████████████████████████   100.00 % 
+school                   2 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,5 +94,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2026 02:26:46 UTC
+ Last Updated on 07/05/2026 02:28:32 UTC
 <!--END_SECTION:waka-->
