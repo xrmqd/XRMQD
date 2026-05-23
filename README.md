@@ -41,9 +41,11 @@ const xrmqd = {
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtncHljZWUxeW8zYnY2cDhraDE3M2JzNnZ3ejEzMW42aXA5Yng1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t7sEnf5w7wJ1CEPyy7/giphy.gif" width=20> A little of my statistics</h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%2045%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.59%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.58%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -85,15 +87,15 @@ Mac                      2 hrs               ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   20 repos            ██████████████████░░░░░░░   71.43 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Kotlin                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Python                   20 repos            ███████████████████░░░░░░   74.07 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
 
 
- Last Updated on 22/05/2026 02:50:32 UTC
+ Last Updated on 23/05/2026 02:35:30 UTC
 <!--END_SECTION:waka-->
