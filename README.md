@@ -65,23 +65,22 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   1 hr                █████████████████░░░░░░░░   68.38 % 
-.env file                12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Docker                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Python                   45 mins             ████████████████████░░░░░   79.91 % 
+Text                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Docker                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 27 mins        █████████████████████████   100.00 % 
+PyCharm                  57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-selectel-toolbox         1 hr 20 mins        ███████████████████████░░   91.36 % 
-school                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-remnawave-telegram-bot   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-mvp-tgbot                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+selectel-toolbox         49 mins             ██████████████████████░░░   86.94 % 
+school                   6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+remnawave-telegram-bot   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 💻 Operating System: 
-Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
+Mac                      57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -97,5 +96,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2026 02:55:29 UTC
+ Last Updated on 26/05/2026 02:43:30 UTC
 <!--END_SECTION:waka-->
