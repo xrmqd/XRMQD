@@ -41,7 +41,7 @@ const xrmqd = {
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtncHljZWUxeW8zYnY2cDhraDE3M2JzNnZ3ejEzMW42aXA5Yng1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t7sEnf5w7wJ1CEPyy7/giphy.gif" width=20> A little of my statistics</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -65,17 +65,18 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-YAML                     8 mins              █████████████████░░░░░░░░   68.21 % 
-Python                   3 mins              ████████░░░░░░░░░░░░░░░░░   31.79 % 
+Python                   12 mins             ███████████████░░░░░░░░░░   60.88 % 
+YAML                     8 mins              ██████████░░░░░░░░░░░░░░░   39.12 % 
 
 🔥 Editors: 
-PyCharm                  12 mins             █████████████████████████   100.00 % 
+PyCharm                  21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-remnawave-telegram-bot   12 mins             █████████████████████████   100.00 % 
+remnawave-telegram-bot   12 mins             ██████████████░░░░░░░░░░░   57.36 % 
+school                   9 mins              ███████████░░░░░░░░░░░░░░   42.64 % 
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,5 +92,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/06/2026 03:29:13 UTC
+ Last Updated on 03/06/2026 03:36:57 UTC
 <!--END_SECTION:waka-->
