@@ -59,6 +59,24 @@ const xrmqd = {
  > 
 > 🔑 12 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Yekaterinburg
+
+💬 Programming Languages: 
+Python                   9 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+PyCharm                  9 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+school                   9 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      9 mins              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -72,5 +90,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2026 02:41:16 UTC
+ Last Updated on 07/06/2026 02:59:30 UTC
 <!--END_SECTION:waka-->
