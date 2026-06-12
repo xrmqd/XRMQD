@@ -65,8 +65,8 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-YAML                     23 mins             █████████████░░░░░░░░░░░░   50.52 % 
-Python                   21 mins             ███████████░░░░░░░░░░░░░░   44.44 % 
+YAML                     23 mins             █████████████░░░░░░░░░░░░   50.50 % 
+Python                   21 mins             ███████████░░░░░░░░░░░░░░   44.46 % 
 Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
@@ -75,8 +75,8 @@ PyCharm                  45 mins             ███████████�
 Notes                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 🐱‍💻 Projects: 
-remnawave-telegram-bot   24 mins             █████████████░░░░░░░░░░░░   50.62 % 
-school                   23 mins             ████████████░░░░░░░░░░░░░   49.37 % 
+remnawave-telegram-bot   24 mins             █████████████░░░░░░░░░░░░   50.61 % 
+school                   23 mins             ████████████░░░░░░░░░░░░░   49.38 % 
 mvp-tgbot                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
@@ -96,5 +96,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2026 03:26:26 UTC
+ Last Updated on 12/06/2026 03:26:16 UTC
 <!--END_SECTION:waka-->
