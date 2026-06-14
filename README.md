@@ -41,7 +41,7 @@ const xrmqd = {
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtncHljZWUxeW8zYnY2cDhraDE3M2JzNnZ3ejEzMW42aXA5Yng1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t7sEnf5w7wJ1CEPyy7/giphy.gif" width=20> A little of my statistics</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -65,22 +65,22 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-YAML                     23 mins             █████████████░░░░░░░░░░░░   50.50 % 
-Python                   21 mins             ███████████░░░░░░░░░░░░░░   44.46 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Python                   26 mins             ████████████░░░░░░░░░░░░░   49.92 % 
+YAML                     23 mins             ███████████░░░░░░░░░░░░░░   45.53 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PyCharm                  45 mins             ████████████████████████░   94.97 % 
-Notes                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+PyCharm                  50 mins             ████████████████████████░   95.46 % 
+Notes                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 🐱‍💻 Projects: 
-remnawave-telegram-bot   24 mins             █████████████░░░░░░░░░░░░   50.61 % 
-school                   23 mins             ████████████░░░░░░░░░░░░░   49.38 % 
+school                   28 mins             ██████████████░░░░░░░░░░░   54.36 % 
+remnawave-telegram-bot   24 mins             ███████████░░░░░░░░░░░░░░   45.63 % 
 mvp-tgbot                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      47 mins             █████████████████████████   100.00 % 
+Mac                      52 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +96,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2026 02:53:03 UTC
+ Last Updated on 14/06/2026 03:29:48 UTC
 <!--END_SECTION:waka-->
