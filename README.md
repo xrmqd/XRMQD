@@ -66,12 +66,12 @@ const xrmqd = {
 
 💬 Programming Languages: 
 Python                   1 hr 12 mins        ██████████████████░░░░░░░   70.48 % 
-Other                    30 mins             ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+Other                    30 mins             ███████░░░░░░░░░░░░░░░░░░   29.27 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 12 mins        ██████████████████░░░░░░░   70.74 % 
-Notes                    30 mins             ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+PyCharm                  1 hr 12 mins        ██████████████████░░░░░░░   70.73 % 
+Notes                    30 mins             ███████░░░░░░░░░░░░░░░░░░   29.27 % 
 
 🐱‍💻 Projects: 
 school                   1 hr 42 mins        █████████████████████████   100.00 % 
@@ -93,5 +93,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/06/2026 03:25:42 UTC
+ Last Updated on 19/06/2026 03:48:24 UTC
 <!--END_SECTION:waka-->
