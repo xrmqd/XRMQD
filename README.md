@@ -65,19 +65,19 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   1 hr 12 mins        ██████████████████░░░░░░░   70.48 % 
-Other                    30 mins             ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Python                   1 hr 7 mins         █████████████████░░░░░░░░   68.91 % 
+Other                    30 mins             ████████░░░░░░░░░░░░░░░░░   30.82 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 12 mins        ██████████████████░░░░░░░   70.73 % 
-Notes                    30 mins             ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+PyCharm                  1 hr 7 mins         █████████████████░░░░░░░░   69.18 % 
+Notes                    30 mins             ████████░░░░░░░░░░░░░░░░░   30.82 % 
 
 🐱‍💻 Projects: 
-school                   1 hr 42 mins        █████████████████████████   100.00 % 
+school                   1 hr 37 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 42 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +93,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2026 02:51:52 UTC
+ Last Updated on 21/06/2026 03:36:02 UTC
 <!--END_SECTION:waka-->
