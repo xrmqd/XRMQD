@@ -65,19 +65,16 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   1 hr 2 mins         █████████████████░░░░░░░░   68.98 % 
-Other                    28 mins             ████████░░░░░░░░░░░░░░░░░   30.94 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  1 hr 2 mins         █████████████████░░░░░░░░   69.06 % 
-Notes                    28 mins             ████████░░░░░░░░░░░░░░░░░   30.94 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-school                   1 hr 30 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 30 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +90,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2026 02:45:29 UTC
+ Last Updated on 24/06/2026 02:46:24 UTC
 <!--END_SECTION:waka-->
