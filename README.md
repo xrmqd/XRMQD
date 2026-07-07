@@ -41,7 +41,7 @@ const xrmqd = {
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtncHljZWUxeW8zYnY2cDhraDE3M2JzNnZ3ejEzMW42aXA5Yng1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t7sEnf5w7wJ1CEPyy7/giphy.gif" width=20> A little of my statistics</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -65,16 +65,22 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   20 mins             ████████████░░░░░░░░░░░░░   46.84 % 
+Markdown                 11 mins             ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+Text                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              34 mins             ████████████████████░░░░░   78.24 % 
+PyCharm                  9 mins              █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+mvp-tgbot                43 mins             █████████████████████████   99.56 % 
+school                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      44 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,5 +96,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/07/2026 02:40:49 UTC
+ Last Updated on 07/07/2026 02:36:58 UTC
 <!--END_SECTION:waka-->
