@@ -65,24 +65,24 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   1 hr 15 mins        █████████████████░░░░░░░░   68.39 % 
-Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-YAML                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Text                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Python                   1 hr 17 mins        █████████████████░░░░░░░░   69.16 % 
+Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+YAML                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Text                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔥 Editors: 
-PyCharm                  57 mins             █████████████░░░░░░░░░░░░   51.41 % 
-Claude Code              43 mins             ██████████░░░░░░░░░░░░░░░   38.76 % 
-Notes                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+PyCharm                  58 mins             █████████████░░░░░░░░░░░░   52.06 % 
+Claude Code              43 mins             ██████████░░░░░░░░░░░░░░░   38.24 % 
+Notes                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
 
 🐱‍💻 Projects: 
-mvp-tgbot                1 hr 45 mins        ████████████████████████░   95.23 % 
-remnawave-telegram-bot   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+mvp-tgbot                1 hr 45 mins        ████████████████████████░   94.01 % 
+remnawave-telegram-bot   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 school                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Mac                      1 hr 51 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -98,5 +98,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2026 02:11:35 UTC
+ Last Updated on 13/07/2026 02:13:38 UTC
 <!--END_SECTION:waka-->
