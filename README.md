@@ -41,6 +41,8 @@ const xrmqd = {
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtncHljZWUxeW8zYnY2cDhraDE3M2JzNnZ3ejEzMW42aXA5Yng1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t7sEnf5w7wJ1CEPyy7/giphy.gif" width=20> A little of my statistics</h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%202%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.62%20million%20lines%20of%20code-blue?style=flat)
@@ -63,17 +65,16 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-YAML                     8 mins              ██████████████░░░░░░░░░░░   56.09 % 
-.env file                4 mins              ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-Python                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+YAML                     8 mins              ██████████████░░░░░░░░░░░   56.17 % 
+.env file                4 mins              ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+Python                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 🔥 Editors: 
 PyCharm                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend                  15 mins             █████████████████████████   99.86 % 
-nisher                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+backend                  15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Mac                      15 mins             █████████████████████████   100.00 % 
@@ -92,5 +93,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:09:54 UTC
+ Last Updated on 26/07/2026 02:14:17 UTC
 <!--END_SECTION:waka-->
