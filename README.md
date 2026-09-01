@@ -67,22 +67,43 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    25 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             16 mins             ████████████████░░░░░░░░░   64.15 % 
+Claude Code              8 mins              ████████░░░░░░░░░░░░░░░░░   33.37 % 
+PyCharm                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ht                       15 mins             ███████████████░░░░░░░░░░   58.18 % 
+test                     8 mins              ████████░░░░░░░░░░░░░░░░░   33.37 % 
+new-chat                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Гипотеза_Sber500_Disrupt.0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      25 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 25 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 31,286 Input Tokens, 5,375 Output Tokens
+
+💵 $0.21 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 17 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 3,286 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -98,5 +119,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 03:03:22 UTC
+ Last Updated on 01/09/2026 03:10:24 UTC
 <!--END_SECTION:waka-->
