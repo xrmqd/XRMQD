@@ -41,7 +41,7 @@ const xrmqd = {
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtncHljZWUxeW8zYnY2cDhraDE3M2JzNnZ3ejEzMW42aXA5Yng1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t7sEnf5w7wJ1CEPyy7/giphy.gif" width=20> A little of my statistics</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2044%20mins-blue?style=flat)
 
@@ -67,42 +67,42 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    25 mins             █████████████████████████   100.00 % 
+Markdown                 27 mins             █████████████░░░░░░░░░░░░   53.48 % 
+Other                    23 mins             ████████████░░░░░░░░░░░░░   46.52 % 
 
 🔥 Editors: 
-Codex Vscode             16 mins             ████████████████░░░░░░░░░   64.15 % 
-Claude Code              8 mins              ████████░░░░░░░░░░░░░░░░░   33.37 % 
-PyCharm                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+PyCharm                  27 mins             █████████████░░░░░░░░░░░░   53.48 % 
+Codex Vscode             15 mins             ███████░░░░░░░░░░░░░░░░░░   29.56 % 
+Claude Code              8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
 
 🐱‍💻 Projects: 
-ht                       15 mins             ███████████████░░░░░░░░░░   58.18 % 
-test                     8 mins              ████████░░░░░░░░░░░░░░░░░   33.37 % 
-new-chat                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Гипотеза_Sber500_Disrupt.0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+LightEditProject         27 mins             █████████████░░░░░░░░░░░░   53.48 % 
+ht                       15 mins             ███████░░░░░░░░░░░░░░░░░░   29.56 % 
+test                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.00 % 
+Mac                      51 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 mins (100.0%)
+⏱ AI Coding Time: 23 mins (46.52%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 31,286 Input Tokens, 5,375 Output Tokens
+🔤 2,602 Input Tokens, 607 Output Tokens
 
-💵 $0.21 Estimated AI Cost This Week
+💵 $0.02 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 17 AI Prompts
+🧠 5 AI Sessions, 14 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 3,286 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 1,058 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -119,5 +119,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 03:10:24 UTC
+ Last Updated on 02/09/2026 02:29:28 UTC
 <!--END_SECTION:waka-->
