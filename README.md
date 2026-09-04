@@ -67,41 +67,37 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Markdown                 27 mins             █████████████░░░░░░░░░░░░   53.48 % 
-Other                    23 mins             ████████████░░░░░░░░░░░░░   46.52 % 
+Markdown                 27 mins             ███████████████████░░░░░░   75.93 % 
+Other                    8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
 
 🔥 Editors: 
-PyCharm                  27 mins             █████████████░░░░░░░░░░░░   53.48 % 
-Codex Vscode             15 mins             ███████░░░░░░░░░░░░░░░░░░   29.56 % 
-Claude Code              8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+PyCharm                  27 mins             ███████████████████░░░░░░   75.93 % 
+Claude Code              8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
 
 🐱‍💻 Projects: 
-LightEditProject         27 mins             █████████████░░░░░░░░░░░░   53.48 % 
-ht                       15 mins             ███████░░░░░░░░░░░░░░░░░░   29.56 % 
-test                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+LightEditProject         27 mins             ███████████████████░░░░░░   75.93 % 
+test                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
 
 💻 Operating System: 
-Mac                      51 mins             █████████████████████████   100.00 % 
+Mac                      35 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (46.52%)
+⏱ AI Coding Time: 8 mins (24.07%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 2,602 Input Tokens, 607 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.02 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 14 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 4 AI Sessions, 12 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 1,058 characters per prompt
+📄 Detailed Prompter — average 1,198 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -119,5 +115,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 02:36:24 UTC
+ Last Updated on 04/09/2026 02:33:11 UTC
 <!--END_SECTION:waka-->
