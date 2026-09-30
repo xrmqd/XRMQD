@@ -67,46 +67,46 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    8 hrs 44 mins       ██████████████████████░░░   87.66 % 
-Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Other                    6 hrs 45 mins       █████████████████████░░░░   84.59 % 
+Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-Codex Vscode             8 hrs 12 mins       █████████████████████░░░░   82.23 % 
-Terminal                 1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Codex Vscode             6 hrs 16 mins       ████████████████████░░░░░   78.41 % 
+Terminal                 1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
 
 🐱‍💻 Projects: 
-g-p-6ab1244d00b88191b7ed54 hrs 21 mins       ███████████░░░░░░░░░░░░░░   43.71 % 
-g-p-6aaaf3e9c9908191860853 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   30.92 % 
-LightEditProject         1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-remnawave-watch          37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-ami-python-basic-seminars15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+g-p-6ab1244d00b88191b7ed53 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.35 % 
+g-p-6aaaf3e9c9908191860851 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+LightEditProject         1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+remnawave-watch          37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+ami-python-basic-seminars15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 💻 Operating System: 
-Mac                      9 hrs 58 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 58 mins (100.0%)
+⏱ AI Coding Time: 7 hrs 59 mins (100.0%)
 
 ✍️ 4,781 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,345,849 Input Tokens, 457,622 Output Tokens
+🔤 5,780,282 Input Tokens, 390,036 Output Tokens
 
-💵 $85.87 Estimated AI Cost This Week
+💵 $80.83 Estimated AI Cost This Week
 
-🧠 78 AI Sessions, 326 AI Prompts
+🧠 69 AI Sessions, 276 AI Prompts
 
 GPT                      4,787 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,239 characters per prompt
+📚 Verbose Prompter — average 4,935 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -124,5 +124,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 03:49:15 UTC
+ Last Updated on 30/09/2026 03:37:25 UTC
 <!--END_SECTION:waka-->
