@@ -67,46 +67,46 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    3 hrs 16 mins       ███████████████████░░░░░░   76.89 % 
-Python                   35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Other                    1 hr 36 mins        ██████████████████░░░░░░░   72.09 % 
+Python                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+JavaScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 6 mins        ██████████████████░░░░░░░   73.03 % 
-Terminal                 1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+Codex Vscode             1 hr 31 mins        █████████████████░░░░░░░░   68.76 % 
+Terminal                 41 mins             ████████░░░░░░░░░░░░░░░░░   31.24 % 
 
 🐱‍💻 Projects: 
-g-p-6aaaf3e9c9908191860851 hr 27 mins        █████████░░░░░░░░░░░░░░░░   34.23 % 
-g-p-6ab1244d00b88191b7ed51 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-LightEditProject         48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-remnawave-watch          26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-ami-python-basic-seminars15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+g-p-6aaaf3e9c99081918608541 mins             ████████░░░░░░░░░░░░░░░░░   31.42 % 
+g-p-6ab1244d00b88191b7ed535 mins             ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+LightEditProject         28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+ami-python-basic-seminars15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+remnawave-watch          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 
 💻 Operating System: 
-Mac                      4 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 15 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 13 mins (100.0%)
 
-✍️ 2,188 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,169 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,908,150 Input Tokens, 253,205 Output Tokens
+🔤 2,600,315 Input Tokens, 135,172 Output Tokens
 
-💵 $47.32 Estimated AI Cost This Week
+💵 $25.01 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 160 AI Prompts
+🧠 25 AI Sessions, 99 AI Prompts
 
-GPT                      2,194 lines         █████████████████████████   100.00 % 
+GPT                      1,170 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,742 characters per prompt
+📚 Verbose Prompter — average 5,842 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -124,5 +124,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 03:42:43 UTC
+ Last Updated on 02/10/2026 03:41:47 UTC
 <!--END_SECTION:waka-->
