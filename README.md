@@ -53,13 +53,13 @@ const xrmqd = {
 
 > 📦 12.2 kB Used in GitHub's Storage 
  > 
-> 🏆 134 Contributions in the Year 2026
+> 🏆 136 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
  > 
-> 🔑 12 Private Repositories 
+> 🔑 13 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -67,42 +67,40 @@ const xrmqd = {
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    16 mins             █████████████░░░░░░░░░░░░   50.23 % 
-Python                   16 mins             ████████████░░░░░░░░░░░░░   49.77 % 
+Python                   3 mins              ████████████████████████░   94.33 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 🔥 Editors: 
-Terminal                 19 mins             ██████████████░░░░░░░░░░░   57.32 % 
-Codex Vscode             14 mins             ███████████░░░░░░░░░░░░░░   42.68 % 
+Codex Vscode             3 mins              ████████████████████████░   94.33 % 
+Terminal                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 🐱‍💻 Projects: 
-ami-python-basic-seminars14 mins             ███████████░░░░░░░░░░░░░░   44.46 % 
-LightEditProject         5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-g-p-6aaaf3e9c9908191860855 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-g-p-6ab1244d00b88191b7ed53 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-g-p-6aabaae628388191837d42 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+ami-python-basic-seminars2 mins              █████████████░░░░░░░░░░░░   50.52 % 
+ami-python-basic-st-26f-x1 min               ███████████░░░░░░░░░░░░░░   43.80 % 
+LightEditProject         0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 💻 Operating System: 
-Mac                      33 mins             █████████████████████████   100.00 % 
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (100.0%)
+⏱ AI Coding Time: 4 mins (100.0%)
 
 ✍️ 256 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 637,961 Input Tokens, 25,899 Output Tokens
+🔤 178,209 Input Tokens, 10,314 Output Tokens
 
-💵 $3.77 Estimated AI Cost This Week
+💵 $0.83 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 22 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
 GPT                      278 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,156 characters per prompt
+📚 Verbose Prompter — average 3,354 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -120,5 +118,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 03:26:39 UTC
+ Last Updated on 04/10/2026 03:53:50 UTC
 <!--END_SECTION:waka-->
