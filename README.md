@@ -64,7 +64,7 @@ const xrmqd = {
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Yekaterinburg
+🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
 No Activity Tracked This Week
